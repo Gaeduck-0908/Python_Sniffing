@@ -2,12 +2,12 @@
 ### Python 을 이용한 스니핑
 참고한 게시글 : https://secretpack.tistory.com/112
 # Scapy Install
-```
+```python
 pip install Scapy
 ```
 ![image](https://user-images.githubusercontent.com/82009667/183590985-0c29ad59-56a7-461f-92b2-72be993e53b6.png)
 # import Scapy
-```
+```python
 from scapy.all import *
 ```
 # Important Function
