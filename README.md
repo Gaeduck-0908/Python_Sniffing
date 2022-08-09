@@ -1,6 +1,5 @@
 # Python_Sniffing
 ### Python 을 이용한 스니핑
-참고한 게시글 : https://secretpack.tistory.com/112
 # Scapy Install
 ```python
 pip install Scapy
