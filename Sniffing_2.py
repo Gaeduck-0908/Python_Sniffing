@@ -17,5 +17,5 @@ def sniffing(filter):
     sniff(filter = filter, prn = showPacket, count = 0)
     
 if __name__ == '__main__':
-    filter = 'ip'
-    sniffing(filter)
+    filter = 'ip' # 필터
+    sniffing(filter) # 스니핑
